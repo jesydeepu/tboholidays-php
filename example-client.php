@@ -3,7 +3,7 @@
  * User: M.Saad Siddiqui
  */
 
-require '/vendor/autoload.php';
+require 'vendor/autoload.php';
 require 'webservice/autoload.php';
 
 class TBOSOAPClient extends Zend\Soap\Client {
